@@ -1,0 +1,5 @@
+F:\My Works\MVC WEB PROJECT\AdoNetTesting\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\My Works\MVC WEB PROJECT\AdoNetTesting\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\My Works\MVC WEB PROJECT\AdoNetTesting\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\My Works\MVC WEB PROJECT\AdoNetTesting\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\My Works\MVC WEB PROJECT\AdoNetTesting\BusinessLayer\obj\Debug\BusinessLayer.pdb
